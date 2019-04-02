@@ -13,8 +13,8 @@ namespace MessagePublisher
 
         static void Main(string[] args)
         {
-            string serviceBusConnectionString = "Endpoint=sb://mydemo.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=<< your-SAS-key>>";
-            string queueName = "demoqueue";
+            string serviceBusConnectionString = "<your_connection_string>";
+            string queueName = "<your_queue_name>"; ;
 
             StartPublishing(serviceBusConnectionString, queueName).GetAwaiter().GetResult();
         }

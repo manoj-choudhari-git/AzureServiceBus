@@ -16,3 +16,5 @@ QueueSample/.vs/QueueSample/v15/.suo
 /TopicSample/Publisher/bin/Debug/netcoreapp2.2
 /TopicSample/Publisher/obj
 /TopicSample/.vs/TopicSample/v15/Server/sqlite3
+*.suo
+/QueueSample/.vs/QueueSample/v16/Server/sqlite3
