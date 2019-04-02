@@ -11,3 +11,8 @@
 /QueueSample/MessagePublisher/bin/Debug/netcoreapp2.2
 /QueueSample/MessagePublisher/obj
 QueueSample/.vs/QueueSample/v15/.suo
+/TopicSample/Consumer/bin/Debug/netcoreapp2.2
+/TopicSample/Consumer/obj
+/TopicSample/Publisher/bin/Debug/netcoreapp2.2
+/TopicSample/Publisher/obj
+/TopicSample/.vs/TopicSample/v15/Server/sqlite3
